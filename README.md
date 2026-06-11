@@ -24,7 +24,7 @@ Real-time object detection and tracking using YOLOv8 + DeepSORT. Includes zone c
 ### [Depression Detection System](https://github.com/haiderakt/depression-detection)
 Multimodal depression detection using BiLSTM + DenseNet201. Combines text and visual signals for classification.
 
-### FloodWatch360
+### [FloodWatch360](https://floodwatch360.onrender.com/)
 Flood prediction system for Pakistan using bidirectional LSTM with self-attention, trained on ERA5 climate data with GloFAS-based labels.
 
 ---
