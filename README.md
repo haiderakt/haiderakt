@@ -1,6 +1,6 @@
 # Hi, I'm Haider 👋
 
-CS student at COMSATS University | Python Developer | ML Engineer
+Python Developer | ML Engineer
 
 I build real things — computer vision systems, AI-powered tools, automation scripts, and data pipelines. My work sits at the intersection of machine learning and practical software engineering.
 
@@ -11,8 +11,8 @@ I build real things — computer vision systems, AI-powered tools, automation sc
 **Languages:** Python, C++  
 **ML/AI:** YOLOv8, OpenCV, TensorFlow, PyTorch, Scikit-learn, Hugging Face  
 **Data:** pandas, numpy, matplotlib, seaborn  
-**APIs:** OpenAI, Anthropic Claude, REST APIs  
-**Tools:** Git, Google Colab, FastAPI, Streamlit  
+**APIs:** OpenAI, Anthropic Claude, REST APIs, FastAPI, Flask API  
+**Tools:** Git, Google Colab, Streamlit  
 
 ---
 
