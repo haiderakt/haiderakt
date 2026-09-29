@@ -90,6 +90,11 @@ Current work includes database-backed applications with:
 
 ---
 
+## 💻 Tech Stack
+
+[![My Skills](https://skillicons.dev/icons?i=python,fastapi,flask,postgresql,docker,git,github,linux,pytorch,tensorflow,opencv)](https://skillicons.dev)
+
+
 ## Connect
 
 * **Top 3% nationally** — HEC National IT Skills Competency Test (NSCT)
