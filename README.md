@@ -1,4 +1,4 @@
-# Hi, I'm Haider 👋
+# Hi, I'm Haider
 
 Python Developer | ML Engineer
 
@@ -6,7 +6,7 @@ I build real things — computer vision systems, AI-powered tools, automation sc
 
 ---
 
-## 🛠 What I work with
+## What I work with
 
 **Languages:** Python, C++  
 **ML/AI:** YOLOv8, OpenCV, TensorFlow, PyTorch, Scikit-learn, Hugging Face  
@@ -16,7 +16,7 @@ I build real things — computer vision systems, AI-powered tools, automation sc
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### [WhoMoved](https://github.com/haiderakt/whomoved)
 Real-time object detection and tracking using YOLOv8 + DeepSORT. Includes zone counting, statistics dashboard, OpenVINO acceleration, and H.264 re-encoding.
@@ -29,15 +29,15 @@ Flood prediction system for Pakistan using bidirectional LSTM with self-attentio
 
 ---
 
-## 📊 Stats
+## Stats
 
 ![Haider's GitHub Stats](https://github-readme-stats.vercel.app/api?username=haiderakt&show_icons=true&theme=dark&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=haiderakt&layout=compact&theme=dark&hide_border=true)
 
 ---
 
-## 📫 Connect
+## Connect
 
-- 🏆 Top 3% nationally — HEC National IT Skills Competency Test (NSCT)
-- 💼 Open to ML/AI engineering roles and freelance projects
-- 📧 Reach me via GitHub or [haiderakt@gmail.com](mailto:haiderakt@gmail.com)
+- Top 3% nationally — HEC National IT Skills Competency Test (NSCT)
+- Open to ML/AI engineering roles and freelance projects
+- Reach me via GitHub or [haiderakt@gmail.com](mailto:haiderakt@gmail.com)
