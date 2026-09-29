@@ -67,7 +67,7 @@ Multimodal machine learning system combining **textual and visual signals**.
 
 ---
 
-## ackend Projects
+## Backend Projects
 
 I also build backend systems using **FastAPI, Flask, PostgreSQL, JWT authentication, and REST APIs**.
 
