@@ -86,8 +86,6 @@ Current work includes database-backed applications with:
 
 ![Haider's GitHub Stats](https://github-readme-stats.vercel.app/api?username=haiderakt\&show_icons=true\&theme=dark\&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=haiderakt\&layout=compact\&theme=dark\&hide_border=true)
-
 ---
 
 ## 💻 Tech Stack
